@@ -1,7 +1,5 @@
 package DSA.BitManupulation;
 
-import java.util.*;
-
 public class bits {
     public static void main(String[] args){
         int n =5;
